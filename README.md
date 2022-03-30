@@ -1,6 +1,6 @@
 # SLCB Releases
  
-Welcome to **SLCB Releases** repository on github. Hehre you can find and download my public Streamlabs Chatbot scripts to make use on your live streams.
+Welcome to **SLCB Releases** repository on github. Here you can find and download my public Streamlabs Chatbot scripts to make use on your live streams.
 
 At the moment, you can find here the following:
 
