@@ -23,6 +23,7 @@ It is needless to say, but I will make this note here: if you don't have the sta
 
 ### 1. General Settings:
 <img align="right" width="400" src="https://vonschappler.github.io/img/costream_ui01.png">
+
 This group is responsible for the general settings from the script which will be controlled by the commands (listed and detailed later in this document). Messages, co-stream "host", game, and casters you are Co-Streaming with can be set here. Below, there are details on each field of this group:
 
 
@@ -77,6 +78,7 @@ Example of working message:
 
 ### 2. Command Settings:
 <img align="right" width="400" src="https://vonschappler.github.io/img/costream_ui02.png">
+
 The user can customize the commands used in chat by this script in this group. This group is composed of:
 
 1. **Command to set/enable co-stream URL:**
@@ -145,13 +147,13 @@ The user can customize the commands used in chat by this script in this group. T
 >```
 >   !setcogame or !setcogame auto
 >```
-``auto`` MUST be written with no capital letters in order for this to work
+> ``auto`` MUST be written with no capital letters in order for this to work
 >
 > b) Using a new/custom game name:
 >```
 >   !setcogame {game}
 >```
->Everything written after the command will be defined as {game}, so the user don't need to worry about games whose names have multiple words
+>Everything written after the command will be defined as {game}, so the user doesn't need to worry about games whose names have multiple words
 >> **ANSWER:**
 >> The answer for this command will be sent to the user whisper and it will depend on the user's input for this command.
 > - **Updating the Co-Stream "host":**
@@ -187,6 +189,7 @@ The user can customize the commands used in chat by this script in this group. T
 
 ### 3. AutoMessage Settings:
 <img align="right" width="400" src="https://vonschappler.github.io/img/costream_ui03.png">
+
 This group is to manage how the script will post auto-messages in chat, during the stream. Both fields are self-explanatory, so there is not much to detail for this section.
 
 
@@ -200,6 +203,7 @@ This group is to manage how the script will post auto-messages in chat, during t
 
 ### 4. ScriptLog Settings:
 <img align="right" width="400" src="https://vonschappler.github.io/img/costream_ui04.png">
+
 This is another self-explanatory group. These settings are here to manage the script usage LogFiles of when/how it was used during a stream session. For users who like to have more control over what's happening or want to report any bug on the script, these LogFile settings are here for that purpose.
 
 1. **Display Script log in the ChatBot?**
@@ -219,14 +223,15 @@ This is another self-explanatory group. These settings are here to manage the sc
 
 4. **Open ScriptLog Directory**
 
-    This will open the directory where all the ScriptLogs are stored. As a reference, it's possible to preview an example of a ScriptLog file here.
+    This will open the directory where all the ScriptLogs are stored. As a reference, it's possible to preview an example of a ScriptLog file [here](https://vonschappler.github.io/files/Co-StreamLog_YYYYMMDD_HHMMSS_example.log).
 
 > **NOTE:**
 >
 > Enable the `Display Scriptlog in the chatbot?` feature ONLY IF you want to perform debugging (or for development reasons). Otherwise, your ChatBot may be overloaded with debug messages.
 
-### 5. ScriptLog Settings:
+### 5. Support:
 <img align="right" width="400" src="https://vonschappler.github.io/img/costream_ui05.png">
+
 This section of the script is formed only formed by buttons, as described below:
 
 1. **Visit my Site**
