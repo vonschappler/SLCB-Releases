@@ -14,7 +14,7 @@ At the moment, you can find here the following:
 
     For more info about this script, check the [Wiki](https://github.com/vonschappler/SLCB-Releases/wiki/Custom-Shoutout-Utility).
 
-3. [[SLCB] Now Playing Utility](https://github.com/vonschappler/SLCB-Releases/releases/tag/a1.0.0)
+<!-- 3. [[SLCB] Now Playing Utility](https://github.com/vonschappler/SLCB-Releases/releases/tag/a1.0.0)
 
-    For more info about this script, check the [Wiki](https://github.com/vonschappler/SLCB-Releases/wiki/Now-Playing-Utility).
+    For more info about this script, check the [Wiki](https://github.com/vonschappler/SLCB-Releases/wiki/Now-Playing-Utility). -->
 
